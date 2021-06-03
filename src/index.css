@@ -14,7 +14,7 @@
   border-radius: 3em;
 }
 
-#dog-bar {
+#dog-list {
   height: 15vh;
   background: skyblue;
   display: flex;
@@ -22,7 +22,7 @@
   align-items: center;
 }
 
-#dog-bar span {
+#dog-list span {
   height: 80%;
   width: 8vw;
   display: flex;
